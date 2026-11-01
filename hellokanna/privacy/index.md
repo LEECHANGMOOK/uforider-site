@@ -108,3 +108,10 @@ GitHub는 서비스 보안을 위해 방문자의 IP 주소를 기록·보관합
 
 - 운영자 및 개인정보 보호 담당: UFORiderSTUDIO 운영자
 - 이메일: uforiderstudio00@gmail.com
+
+
+---
+title: 헬로칸나 개인정보 처리방침
+permalink: /hellokanna/privacy/
+---
+
